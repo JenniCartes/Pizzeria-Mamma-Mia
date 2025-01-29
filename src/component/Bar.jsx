@@ -9,7 +9,7 @@ const Bar = () => {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">Pizzería Mamma Mía<a href="Pizzería Mamma Mía"></a></Navbar.Brand>
+          <Navbar.Brand href="#home">Pizzería<a href="Pizzería Mamma Mía"></a></Navbar.Brand>
           <Nav className="me-auto">
             <Button>Home</Button>
             <Button>Login</Button>
